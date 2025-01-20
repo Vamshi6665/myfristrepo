@@ -1,5 +1,5 @@
  t tree
  i iodine
- g graden
+ g gold
  e extra
- r read
+ r raven
